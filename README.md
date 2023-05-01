@@ -8,7 +8,7 @@ Settings:
 - number of tokens: 3-min(number of rows, number of columns)
 
 In a player turn:
-- '-1' for undo move : remove the rival's last token, and let him the option to play again
+- '-1' : undo move - remove the rival's last token, and let him the option to play again
 - 1 - number of rows : choose a column to drop a column 
 
 End of the game:
